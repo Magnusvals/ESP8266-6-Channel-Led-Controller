@@ -21,3 +21,6 @@ Images, sketches and PCB made using [Fritzing](https://fritzing.org/home/).
 <img src="img/esp8266 6 channel led controlelr_schem.png" width="700">
 
 <img src="img/pcb.png" width="700">
+
+
+I will use Blynk to control the ESP8266, you can see how I setup Blynk [HERE](https://github.com/Magnusvals/ESP8266-Web-controlled-RGB-ledstrip-using-BLYNK)
