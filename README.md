@@ -20,4 +20,4 @@ Images, sketches and PCB made using [Fritzing](https://fritzing.org/home/).
 
 <img src="img/esp8266 6 channel led controlelr_schem.png" width="700">
 
-<img src="img/esp8266 6 channel led controlelr_pcb.png" width="700">
+<img src="img/pcb.png" width="700">
