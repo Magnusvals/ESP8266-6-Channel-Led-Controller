@@ -33,4 +33,5 @@ I will use Blynk to control the ESP8266, you can see how I setup Blynk [HERE](ht
 | Red 2  | GPIO12  |
 | Green 2  | GPIO13  |
 | Blue 2  | GPIO15  |
+
 *NOTE! On reboot leds Blue 1, Red 2, Green 2 and Blue 2 will turn on. 
