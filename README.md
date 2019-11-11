@@ -18,6 +18,6 @@ I will also make and order custom PCBs from [JLCPCB](https://jlcpcb.com/) (not s
 Images, sketches and PCB made using [Fritzing](https://fritzing.org/home/).
 <img src="img/esp8266 6 channel led controlelr_bb.png" width="700">
 
-<img src="img/esp8266 6 channel led controlelr_bb.png" width="700">
+<img src="img/esp8266 6 channel led controlelr_schem.png" width="700">
 
 <img src="img/esp8266 6 channel led controlelr_pcb.png" width="700">
