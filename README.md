@@ -1,7 +1,7 @@
 # ESP8266-6-Channel-Led-Controller
 
 In this little project I will be making a RGB led strip controller for multiple led strips, 2 in this project
-I will also make and order custom PCBs from [JLCPCB](https://jlcpcb.com/) (not sponsored :) ) since thay are cheep, reliable and fast.
+I will also make and order custom PCBs from [JLCPCB](https://jlcpcb.com/) (not sponsored :) ) since they are cheep, reliable and fast.
 <img src="img/jlcpcb.png" width="500">
 
 # Components I used:
