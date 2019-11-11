@@ -24,3 +24,12 @@ Images, sketches and PCB made using [Fritzing](https://fritzing.org/home/).
 
 
 I will use Blynk to control the ESP8266, you can see how I setup Blynk [HERE](https://github.com/Magnusvals/ESP8266-Web-controlled-RGB-ledstrip-using-BLYNK)
+
+| Pin Marking on terminals | Pin number in Arduino IDE |
+| ------------- | ------------- |
+| Red 1  | GPIO5  |
+| Green 1  | GPIO4  |
+| Blue 1  | GPIO14  |
+| Red 2  | GPIO12  |
+| Green 2  | GPIO13  |
+| Blue 2  | GPIO15  |
